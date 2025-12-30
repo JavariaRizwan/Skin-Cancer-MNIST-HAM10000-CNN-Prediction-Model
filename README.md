@@ -5,34 +5,17 @@ This project implements a Convolutional Neural Network (CNN) to classify skin ca
 
 HAM10000 / Skin Cancer MNIST
 ~10,000 dermatoscopic images
-7 classes of pigmented skin lesions:
-**Melanoma**
-**Melanocytic nevi**
-**Basal cell carcinoma**
-**Actinic keratoses**
-**Benign keratosis**
-**Dermatofibroma**
-**Vascular lesions**
+7 classes of pigmented skin lesions: Melanoma | Melanocytic nevi | Basal cell carcinoma | Actinic keratoses | Benign keratosis | Dermatofibroma | Vascular lesions
 
 # ⚙️ Model Overview
-
-**Convolutional Neural Network (CNN)**
-**Image preprocessing (resizing & normalization)**
-**Data augmentation**
-**Softmax-based multi-class classification**
+**Convolutional Neural Network (CNN)** | **Image preprocessing (resizing & normalization)** | **Data augmentation** | **Softmax-based multi-class classification**
 
 # 🚀 Features
-Automated skin lesion classification
-End-to-end training pipeline
-Model evaluation using accuracy and loss
-Extendable for deployment and optimization
+Automated skin lesion classification | End-to-end training pipeline | Model evaluation using accuracy and loss | Extendable for deployment and optimization
 
 
 # 🛠️ Technologies Used
-Python
-TensorFlow / Keras
-NumPy & Pandas
-Matplotlib
+Python | TensorFlow / Keras | NumPy & Pandas | Matplotlib
 
 # 🎯 Objective
 To demonstrate the application of deep learning in healthcare, focusing on skin cancer detection and medical image analysis.
